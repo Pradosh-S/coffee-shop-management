@@ -1,4 +1,4 @@
-Free Download Source Code "Billing_Cafe_System"
+Free Download Source Code "RETRO COFFEE SHOP"
 
 FIRST Download
 
@@ -10,7 +10,7 @@ FIRST Download
 
 4. Download the zip file/ download winrar
 
-5. Extract the file and copy "Billing_Cafe_System" folder
+5. Extract the file and copy "retro coffee shop" folder
 
 6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
